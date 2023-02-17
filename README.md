@@ -9,7 +9,7 @@ Mark tasks as completed
 Delete tasks
 Clear all tasks
 Getting Started
-Clone the repository: git clone https://github.com/your-username/todo-list.git
+
 Open the index.html file in your web browser.
 Start adding tasks to your list!
 Usage
