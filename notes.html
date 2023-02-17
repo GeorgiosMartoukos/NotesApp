@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes</title>
+    <link rel="stylesheet" href="./css/notes.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <p id="date"></p>
+        </div>
+        <div class="main" id="main"></div>
+        <div class="footer">
+            <div class="insert">
+                <input type="text" id="noteText" placeholder="Note" >
+                <button type="button" class="btn" id="btn"><strong>+</strong></button>
+            </div>
+            <div class="footer-btns">
+                <button type="button" class="clearSlc"><strong>Delete Selected</strong></button>
+                <button type="button" class="clearAll"><strong>Delete All</strong></button>
+            </div>
+            
+           
+        </div>
+    </div>
+
+    <div class="row hidden">
+        <div class="chklbl">
+            <input type="checkbox" id="inputCheckbox"> 
+            <label class="lbl" for=""><p></p></label>
+        </div>
+        <button type="button" class="dltbtn" id="dltbtn">X</button>
+    </div>
+
+   <script src="./js/note2.js"></script>
+      
+</body>
+
+</html>
