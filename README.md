@@ -17,5 +17,4 @@ To add a new task, type the task text in the input field and click the "Add" but
 To mark a task as completed, click the checkbox next to the task text.
 To delete a task, click the "Delete" button next to the task.
 To clear all tasks, click the "Clear All" button.
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
