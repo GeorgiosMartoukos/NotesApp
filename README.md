@@ -12,7 +12,7 @@ Getting Started
 
 Open the index.html file in your web browser.
 Start adding tasks to your list!
-Usage
+Usage <br>
 To add a new task, type the task text in the input field and click the "Add" button or press Enter.
 To mark a task as completed, click the checkbox next to the task text.
 To delete a task, click the "Delete" button next to the task.
