@@ -1,7 +1,7 @@
 # NotesApp
 
 Todo List
-A simple todo list app built with HTML, CSS, and JavaScript.
+A simple todo/Notes list app built with HTML, CSS, and JavaScript.
 
 Features
 Add new tasks
